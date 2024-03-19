@@ -1,0 +1,21 @@
+Random access to memory
+int n;
+rewind(fp);
+n=ftell(fp);
+fseek(fp,offset,position);
+        where offset = no. of position (bytes) to be moved from the location specified by position.
+position
+    0       begening of file
+    1       curr position
+    2       end of file
+
+
+fseek(fp,0L,0);   moves curser to beginning of file equivalent to rewind(fp)
+fseek(fp,0L,1);   curser remains in current position.
+fseek(fp,0L,2);   moves curser to end of file .
+fseek(fp,m,0);    Move (m+1) byte in file.
+fseek(fp,m,1);    Go forward by m byte.
+fseek(fp,-m,1);   Go backward by m byte from current position.
+fseek(fp,-m,2); Go backward by m byte from end of the file.
+
+Q. find the sizee of a given file std.txt.
