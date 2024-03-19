@@ -1,0 +1,4 @@
+name=rijan
+ id=98 
+ address=haha 
+ salary=98998992.00
