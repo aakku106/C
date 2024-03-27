@@ -24,4 +24,5 @@ void main()
     {
         printf("\t %s \t %d \t %s \t %s \n", weeee[i].name, weeee[i].id, weeee[i].phone, weeee[i].address);
     }
+    fclose(weee);
 }
