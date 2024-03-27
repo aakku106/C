@@ -1,0 +1,11 @@
+	 |Name 	 id   	 Phone           	 Address|
+	 ccn 	 106 	 9475849057 	 ccn-106 
+	 Aakku 	 1 	 9584047382 	 urHeart-69 
+	 toffy 	 16 	 9483820270 	 tdm-18 
+	 Axix 	 69 	 9583037201 	 btl-10 
+	 Ram 	 121 	 9473838270 	 dhdj-59 
+	 Sita 	 777 	 0000000000 	 ram-121 
+	 Kisnu 	 1069 	 1061061069 	 merray-dilPay 
+	 Kanchan 	 111 	 0183849389 	 kisnu-1069 
+	 Boku 	 690 	 6969696969 	 bokaPur-106 
+	 dd 	 618 	 9273283901 	 ghar-101 

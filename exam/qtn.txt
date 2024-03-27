@@ -3,3 +3,9 @@ Q > rectangke with rectangel
 Q > file (set A,B) long qtn.
 Q > set A,B structure
 Q >  set B pointer, set A function
+
+//
+ 5. wap to open a file read its content one character at a time using fgetc function and display it in a screen.
+ 6. wap to append some text to a file by reading file name form the user.
+ 7. wap to open a file and copy all its content to another file.
+ 8. Given a text file creat another text file deleting all the vowels(a,e,i,o,u)

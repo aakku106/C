@@ -35,9 +35,9 @@ void tenStd()
 }
 void main()
 {
-    // std();
-    // printf("\n\n");
-    // tenStd();
+    std();
+    printf("\n\n");
+    tenStd();
     printf("\n\n");
     bank();
 }
@@ -82,7 +82,6 @@ void bank()
             {
                 /* code */
             }
-            
-        }
+                }
     }
 }
