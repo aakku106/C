@@ -1,0 +1,20 @@
+color   symbol  int value
+black   BLACK   0
+Blue    BLUE    1
+        GREEN   2
+
+
+
+        YELLOW  14
+        WHITE   15
+
+
+Geaphics driver:
+                DETECT  0
+                CGA     1
+                EGA     2
+                EGA64   3
+                EGAMOND 4
+                VGA     5
+
+

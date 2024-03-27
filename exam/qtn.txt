@@ -1,0 +1,5 @@
+Q > make circle and write circle
+Q > rectangke with rectangel
+Q > file (set A,B) long qtn.
+Q > set A,B structure
+Q >  set B pointer, set A function
