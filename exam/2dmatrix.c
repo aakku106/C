@@ -6,7 +6,7 @@ void main()
     {
         for (int j = 0; j < 3; j++)
         {
-            printf("Enter the element of %d\n", i);
+            printf("Enter the element ");
             scanf("%d", &a[i][j]);
         }
     }

@@ -12,6 +12,7 @@ void main()
     }
     setcolor(GREEN);
     line(0, 50, 200, 300);
+    
     getch();
     closegraph();
 }
