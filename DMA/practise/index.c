@@ -6,14 +6,14 @@ void callocc();
 void rellocc();
 void main()
 {
-    // mallocc();
-    // callocc();
+    mallocc();
+    callocc();
     rellocc();
 }
 
 void mallocc()
 {
-    int n, i, sum = 0, *ptr;
+    int n, sum = 0, *ptr;
     printf("how hany num to giv ?\t");
     scanf("%d", &n);
     ptr = (int *)malloc(n * sizeof(int));
@@ -23,7 +23,7 @@ void mallocc()
         exit(0);
     }
     printf("giv ur numbers :\n");
-    for (i = 0; i < n; ++i)
+    for (int i = 0; i < n; ++i)
     {
         scanf("%d", ptr + i);
         sum += *(ptr + i);
