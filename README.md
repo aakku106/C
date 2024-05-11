@@ -20,6 +20,6 @@ This repository contains various projects, examples, and exercises related to th
 To clone this repository, run the following command in your terminal:
 
 ```bash
-git clone https://github.com/username/repository.git
+git clone https://github.com/aakku106/C.git
 ```
 🙋
